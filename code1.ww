@@ -1,0 +1,26 @@
+a = 10;
+b = 5;
+d = a + b;
+print d;
+print "\";
+print "How are you today?\n";
+input answer;
+while b > 0 :
+{
+    b = b - 1;
+    print b;
+    print "\n";
+};
+if d < 10 :
+{
+    print "flkajfl";
+}
+else : 
+{
+    print "jfjf";
+};
+
+print "What is your age?\n";
+input age;
+print age;
+print "\n";
